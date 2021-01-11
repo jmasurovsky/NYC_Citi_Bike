@@ -10,6 +10,10 @@ Data sources: "201908-citibike-tripdata.csv" retrieved from https://s3.amazonaws
 
 Software: Python, Tableau Public
 
+## Tableau Dashboard Story
+
+[link to dashboard](https://public.tableau.com/profile/jason.masurovsky#!/vizhome/NYCCitiBikeChallenge_16102519452920/NYCCitiBikeStory)
+
 ## Results
 
 ![img_1](https://github.com/jmasurovsky/NYC_Citi_Bike/blob/main/images/Number_of_rides.png)
