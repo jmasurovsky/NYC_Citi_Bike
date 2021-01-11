@@ -40,4 +40,18 @@ The plots above show the count of checkout times for users. Checkout times peak 
 
 *Figure 5. Checkout times by Gender*
 
+The plot above shows the count of checkout times by gender. Highlighting the peak hours of checkout times, the majority of trips are taken by men.
+
+![img_6](https://github.com/jmasurovsky/NYC_Citi_Bike/blob/main/images/Trips_by_weekday_per_hour.png)
+
+*Figure 6. Trips by weekday per hour*
+
+The chart above shows a density heatmap of a breakdown of trips by weekday per hour. During the weekend most trips are taken late-morning and during the afternoon, whereas most trips during weekdays are taken during morning and afternoon rush hour. 
+
+![img_7](https://github.com/jmasurovsky/NYC_Citi_Bike/blob/main/images/Trips_by_gender_weekday_per_hour.png)
+
+*Figure 7. Trips by gender (weekday per hour)
+
+
+
 ## Summary
