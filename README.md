@@ -52,6 +52,14 @@ The chart above shows a density heatmap of a breakdown of trips by weekday per h
 
 *Figure 7. Trips by gender (weekday per hour)
 
+The visualization above shows weekday trips per hour by gender. Weekday trips by gender show similar patterns as before with majority of weekay trips occurring around 7am-9am and 5pm-7pm. While weekend trips are taken from 11am-4pm.
 
+![img_8](https://github.com/jmasurovsky/NYC_Citi_Bike/blob/main/images/User_trips_by_weekday.png)
+
+*Figure 8. User trips by weekday*
+
+This visualization displays that most of NYC citi bike subscribers are men. The distribution of gender for customers is fairly even. Customers are more likely to take trips on weekends instead of weekdays.
 
 ## Summary
+
+Results of the analysis give a story to the 2 million trips taken by citi bike users in New York City. It shows that most trips were taken from south and central Manhattan, in addition to small high density clusters of trips taken in Brooklyn. Most trips are taken during rush hour, especially commuters in the morning, majority being men. Breakdown of trips taken by weekday per hour showed a different story with weekend trips are typically taken later in the afternoon. Customers that are not subscribed to a citi bike membership are likely to take trips during weekends. An additional visualization to create would be maps of weekend trip starting and ending locations compared to weekday starting and ending locations. Another visualization that would be helpful would be creating bins of age groups by 'Birth Year' and creating charts of checkout times by age group. 
